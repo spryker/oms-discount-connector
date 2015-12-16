@@ -10,7 +10,7 @@ use Spryker\Zed\Kernel\Communication\AbstractCommunicationFactory;
 use Spryker\Zed\Discount\Business\DiscountFacade;
 use Spryker\Zed\OmsDiscountConnector\OmsDiscountConnectorDependencyProvider;
 
-class OmsDiscountConnectorDependencyContainer extends AbstractCommunicationFactory
+class OmsDiscountConnectorCommunicationFactory extends AbstractCommunicationFactory
 {
 
     /**

@@ -7,6 +7,6 @@ namespace Spryker\Zed\OmsDiscountConnector\Business;
 
 use Spryker\Zed\Kernel\Business\AbstractBusinessFactory;
 
-class OmsDiscountConnectorDependencyContainer extends AbstractBusinessFactory
+class OmsDiscountConnectorBusinessFactory extends AbstractBusinessFactory
 {
 }
